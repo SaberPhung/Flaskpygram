@@ -1,0 +1,22 @@
+body {
+	background:black;
+	background-image:url("woods.jpg");
+}
+h1{
+	text-align:center;
+	text-decoration:auto;
+	text-transform: uppercase;
+}
+
+
+.video{
+	width:500px;
+	margin:0 auto;
+	text-align:center;
+}
+.logo1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
