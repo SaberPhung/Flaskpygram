@@ -1,2 +1,2 @@
 # Flaskpygram
-Lightweight flask web to learning purpose
+Lightweight flask web to learn purpose
