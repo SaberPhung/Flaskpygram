@@ -5,15 +5,25 @@
 # INSTALLING PYTHON AND FLASK.
 * You cand download python 3.9 or newest version from https://www.python.org/downloads/ then installing (Remember to stick in add PATH environment when setting up).
 * For the reason you want to run python and flask in a virtual environment and don`t mess up anything so you install virtualenv.
-``` pip install virtualenv```
+``` 
+pip install virtualenv
+```
 * Then create a new folder for you FLASK project.
-```mkdir Flaskpygram```
-```cd Flaskpygram```
+```
+mkdir Flaskpygram
+cd Flaskpygram
+```
 * Create a folder for virtualenv here is venv.
-```virtualenv venv```
+```
+virtualenv venv
+```
 * Activating virtualenv in Flaskpygram folder.
-```venv\scripts\activate```
+```
+venv\scripts\activate
+```
 * Now you can start to run your application.
-```python app.py``
+```
+python app.py
+```
 
 
