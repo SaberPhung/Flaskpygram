@@ -21,6 +21,10 @@ virtualenv venv
 ```
 venv\scripts\activate
 ```
+* Install Flask within the activated environment using pip:
+```
+pip install Flask
+```
 * Now you can start to run your application.
 ```
 python app.py
